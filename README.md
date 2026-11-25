@@ -49,6 +49,6 @@ uvicorn main:app --reload
 | POST | /products | Create product (admin) |
 | POST | /orders | Place an order |
 | GET | /orders | List my orders |
-gu
+
 ## Author
 Durgesh Jayswal
